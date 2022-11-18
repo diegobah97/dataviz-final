@@ -3,7 +3,6 @@ import pandas as pd
 import pydeck as pdk
 import numpy as np
 import matplotlib.pyplot as plt
-from st_aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode
 
 st.set_page_config(
   page_icon=":thumbs_up:",
